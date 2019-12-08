@@ -1,0 +1,152 @@
+.container-login100{
+  position: absolute;
+  z-index: -1;
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: gray;
+  background-size: 100%;
+}
+
+.ad-font{
+  color: Black;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+
+.ad-desciprtion-font{
+  color: Black;
+  font-size: 16px;
+  margin-top: 1%;
+}
+
+.login-form {
+  border-radius: 32px;
+  background-color: #fff;
+}
+
+.summary-table {
+  background-color: #fff;
+}
+
+.adImageMargin{
+  margin: 5%!important;
+}
+
+.adDescriptionMargin{
+  margin: 3%!important;
+}
+.adsTittle{
+  background-color: cadetblue;
+  color: white !important;
+}
+
+.boxTittle{
+background-color: cadetblue;
+color: white!important;
+font-weight: bold;
+margin-bottom: 3%;
+font-size: 19px;
+}
+#welcomeUser {
+  background-color: crimson;
+}
+.center
+{
+  text-align: center;
+}
+
+.tittle {
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+label {
+  font-size: 14px;
+}
+
+.font {
+    font-size: 14px !important;
+    font-weight: bold !important;
+}
+.border4{
+  border: 1px solid #e6e6e6 !important;
+border-radius: 2px;
+}
+.form-tittle {
+  color: Black;
+  font-weight: bold;
+}
+
+.padding-10 {
+  padding: 10px;
+}
+
+.margin-top-7 {
+  margin-top: 7%;
+}
+
+.margin-top-3 {
+  margin-top: 1%;
+}
+
+.margin-top-4 {
+  margin-top: 3%;
+}
+.margin-left-23 {
+  margin-left: 18%
+}
+
+.margin-top-18{
+   margin-top: 15%;
+}
+
+.table-margin{
+margin-bottom: 0px !important;
+}
+
+.width{
+  width: 100%;
+}
+
+.btn-cyan{
+    background-color: darkcyan;
+}
+
+body{
+    background-color: lightslategray;
+}
+#custom-search-input{
+    padding: 3px;
+    border: solid 1px #E4E4E4;
+    border-radius: 6px;
+    background-color: #fff;
+}
+
+#custom-search-input input{
+    border: 0;
+    box-shadow: none;
+}
+
+#custom-search-input button{
+    margin: 2px 0 0 0;
+    background: none;
+    box-shadow: none;
+    border: 0;
+    color: #666666;
+    padding: 0 8px 0 10px;
+    border-left: solid 1px #ccc;
+}
+
+#custom-search-input button:hover{
+    border: 0;
+    box-shadow: none;
+    border-left: solid 1px #ccc;
+}
+
+#custom-search-input .glyphicon-search{
+    font-size: 23px;
+}
