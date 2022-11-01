@@ -145,6 +145,11 @@ input {
 	border: none !important;
 }
 
+input-new {
+	outline: none;
+	border: none !important;
+}
+
 textarea {
   outline: none;
 }
